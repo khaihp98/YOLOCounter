@@ -1,0 +1,5 @@
+numpy==2.4.4
+onnx==1.21.0
+onnxruntime==1.25.0
+opencv-python==4.13.0.92
+PyQt5==5.15.11
